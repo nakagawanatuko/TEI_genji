@@ -110,7 +110,14 @@
             <lb />
             <pb n="85" facs="#zone_0085" />
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0085-01.json">ねられたまはぬまゝには我はかく人ににくまれてもならはぬをこよひなむはし</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0085-01.json">ねられたまはぬ
+               <app>
+                  <lem>まゝには</lem>
+                  <rdg wit="#靑横 #靑池 #靑肖 #靑三">
+                     まゝに
+                  </rdg>
+               </app>
+               我はかく人ににくまれてもならはぬをこよひなむはし</seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0085-02.json">めてうしとよをおもひしりぬれははつかしくてなからふましうこそおもひなり</seg>
             <lb />
