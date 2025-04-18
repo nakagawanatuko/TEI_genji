@@ -67,6 +67,9 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
+         <variantEncoding method="parallel-segmentation" location="internal"/>
+      </encodingDesc>
+      <encodingDesc>
          <p>旧字は            <ref target="https://wwwap.hi.u-tokyo.ac.jp/ships/itaiji_list.jsp">史料編纂所データベース異体字同定一覧</ref>を用いて新字に変換した。
          </p>
       </encodingDesc>
