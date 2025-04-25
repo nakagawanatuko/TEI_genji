@@ -26,7 +26,7 @@
             </respStmt>
             <respStmt>
                <resp>Parallel encoding</resp>
-               <name>中川奈津子</name>
+               <name when="2025-04-25">中川奈津子</name>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -116,9 +116,7 @@
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0085-01.json">ねられたまはぬ
                <app>
                   <lem>まゝには</lem>
-                  <rdg wit="#靑横 #靑池 #靑肖 #靑三">
-                     まゝに
-                  </rdg>
+                  <rdg wit="#靑横 #靑池 #靑肖 #靑三">まゝに</rdg>
                </app>
                我はかく人ににくまれてもならはぬをこよひなむはし</seg>
             <lb />
