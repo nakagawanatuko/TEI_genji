@@ -140,6 +140,7 @@
                </app>
                なからふましうこそおもひなり</seg>
             <lb />
+            
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0085-03.json">ぬれなとのたまへはなみたをさへこほしてふしたりいとらうたしとおほすてさ</seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0085-04.json">くりのほそくちいさきほとかみのいとなかゝらさりしけはひのさまかよひたる</seg>
@@ -205,7 +206,12 @@
             <lb />
             <pb n="87" facs="#zone_0087" />
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0087-01.json">とゝめたまへはこきあやのひとへかさねなめりなにゝかあらむうへにきてかし</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0087-01.json">とゝめたまへはこきあやのひとへかさね
+               <app>
+                  <lem>なめり</lem>
+                  <rdg wit="#靑横">なんめり</rdg>
+               </app>
+               なにゝかあらむうへにきてかし</seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0087-02.json">らつきほそやかにちいさき人のものけなきすかたそしたるかほなとはさしむか</seg>
             <lb />
