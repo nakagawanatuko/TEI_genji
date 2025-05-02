@@ -168,7 +168,16 @@
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0086-01.json">かゝるかたにてものたまひまつはすはうれしうおほえけりおさなき心地にいか</seg>
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0086-02.json">ならんおりとまちわたるにきのかみくにゝくたりなとして女とちのとやかなる</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0086-02.json">
+               <app>
+                  <lem>ならん</lem>
+                  <rdg wit="#河">なる</rdg>
+               </app>
+               <app>
+                  <lem>おりと</lem>
+                  <rdg wit="#靑肖 #靑三 #河">おりにと</rdg>
+               </app>
+             まちわたるにきのかみくにゝくたりなとして女とちのとやかなる</seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0086-03.json">ゆふやみのみちたと〱しけなるまきれにわかくるまにてゐてたてまつるこの</seg>
             <lb />
