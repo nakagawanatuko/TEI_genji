@@ -124,12 +124,23 @@
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0085-01.json">ねられたまはぬ
                <app>
                   <lem>まゝには</lem>
-                  <rdg wit="#靑横 #靑池 #靑肖 #靑三">まゝに</rdg>
+                  <rdg wit="#靑横 #靑池 #靑肖 #靑三 #河">まゝに</rdg>
                </app>
-               我はかく人ににくまれてもならはぬをこよひなむはし</seg>
+               我は
+               <app>
+                  <lem>かく人に</lem>
+                  <rdg wit="#河">また人にかく</rdg>
+               </app>
+               にくまれてもならはぬをこよひなむはし</seg>
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0085-02.json">めてうしとよをおもひしりぬれははつかしくてなからふましうこそおもひなり</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0085-02.json">めてうしとよをおもひしりぬれは
+               <app>
+                  <lem>はつかしくて</lem>
+                  <rdg wit="#靑肖 #靑三">はつかしうて</rdg>
+               </app>
+               なからふましうこそおもひなり</seg>
             <lb />
+            
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0085-03.json">ぬれなとのたまへはなみたをさへこほしてふしたりいとらうたしとおほすてさ</seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0085-04.json">くりのほそくちいさきほとかみのいとなかゝらさりしけはひのさまかよひたる</seg>
