@@ -194,42 +194,18 @@
             <lb />
             <pb n="86" facs="#zone_0086" />
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0086-01.json">かゝるかたにてものたまひまつはすは
-               <app>
-                  <lem>うれしう</lem>
-                  <rdg wit="#靑横">
-                     うれし
-                     <subst>
-                        <del>く</del>
-                        <add>う</add>
-                     </subst>
-                  </rdg>
-               </app>おほえけりおさなき心地にいか</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0086-01.json">かゝるかたにてものたまひまつはすはうれしうおほえけりおさなき心地にいか</seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0086-02.json">
-            <app>
+               <app>
                   <lem>ならん</lem>
                   <rdg wit="#河">なる</rdg>
                </app>
-            <app>
-               <lem>おりと</lem>
-               <rdg wit="#靑肖 #靑三 #河">おりにと</rdg>
-            </app>
-            まちわたるにきのかみ
-            <app>
-               <lem>くにゝ</lem>
-               <rdg wit="#河"></rdg>
-            </app>
-            くたり
-            <app>
-               <lem>なと</lem>
-               <rdg wit="#靑横">なんと</rdg>
-            </app>
-            して女とち
-            <app>
-               <lem>のとやかなる</lem>
-               <rdg></rdg>
-            </app></seg>
+               <app>
+                  <lem>おりと</lem>
+                  <rdg wit="#靑肖 #靑三 #河">おりにと</rdg>
+               </app>
+             まちわたるにきのかみくにゝくたりなとして女とちのとやかなる</seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0086-03.json">ゆふやみのみちたと〱しけなるまきれにわかくるまにてゐてたてまつるこの</seg>
             <lb />
@@ -262,9 +238,17 @@
                   <lem>なめり</lem>
                   <rdg wit="#靑横">なんめり</rdg>
                </app>
-               なにゝかあらむうへにきてかし</seg>
+               <app>
+                  <lem>なにゝか</lem>
+                  <rdg wit="#靑横">なににか</rdg>
+               </app>
+               あらむうへにきてかし</seg>
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0087-02.json">らつきほそやかにちいさき人のものけなきすかたそしたるかほなとはさしむか</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0087-02.json">らつきほそやかにちいさき人のものけなきすかたそしたるかほ
+               <app>
+                  <lem>なとは</lem>
+                  <rdg wit="#靑池 #靑秀">なとも</rdg>
+               </app>さしむか</seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0087-03.json">ひたらむ人なとにもわさとみゆましうもてなしたりてつきやせ〱にていたう</seg>
             <lb />
