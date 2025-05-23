@@ -299,6 +299,12 @@
                <app>
                   <lem>なとは</lem>
                   <rdg wit="#靑池 #靑秀">なとも</rdg>
+                     <rdg wit="#靑三"> なと
+                        <subst>
+                           <del>は</del>
+                           <add>も</add>
+                        </subst> 
+                       </rdg>
                </app>さしむか</seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0087-03.json">ひたらむ人なとにもわさとみゆましうもてなしたりてつきやせ〱にていたう</seg>
