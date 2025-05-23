@@ -196,6 +196,7 @@
                <app>
                   <lem>ほそくちいさきほと</lem>
                   <rdg wit="#河">ちいさくほそやかにて</rdg>
+                  <rdg wit="#別陽">ちゐさくほそやかにて</rdg>
                </app>
                かみの
                <app>
@@ -208,15 +209,21 @@
                   <rdg wit="#靑池"><add>さ</add>ま</rdg>
                   <rdg wit="#靑秀"></rdg>
                   <rdg wit="#靑三"><del>さま</del></rdg>
+                  <rdg wit="#河">さまも</rdg>
                </app>
                <app>
                   <lem>かよひたる</lem>
                   <rdg wit="#靑横"><add>に</add>かよひたる</rdg>
-                  <rdg wit="#靑秀 #靑肖 #靑三">にかよひたる</rdg>
+                  <rdg wit="#靑秀 #靑肖 #靑三 #河">にかよひたる</rdg>
                </app>
             </seg>
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0085-05.json">もおもひなしにやあはれなりあなかちにかゝつらひたとりよらむも人わろかる</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0085-05.json">
+               <app>
+                  <lem>も</lem>
+                  <rdg wit="#河"></rdg>
+               </app>
+               おもひなしにやあはれなりあなかちにかゝつらひたとりよらむも人わろかる</seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0085-06.json">へくまめやかにめさましとおほしあかしつゝれいのやうにものたまひまつはさ</seg>
             <lb />
