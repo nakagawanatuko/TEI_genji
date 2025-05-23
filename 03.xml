@@ -245,7 +245,35 @@
             <lb />
             <pb n="86" facs="#zone_0086" />
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0086-01.json">かゝるかたにてものたまひまつはすはうれしうおほえけりおさなき心地にいか</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0086-01.json">かゝる
+               <app>
+                  <lem>かたにても</lem>
+                  <rdg wit="#河 #別陽">すちにて</rdg>
+                  <rdg wit="#別飯">ちちにても</rdg>
+               </app>
+               <app>
+                  <lem>のたまひまつはすは</lem>
+                  <rdg wit="#別陽">の給はするは</rdg>
+               </app>
+               <app>
+                  <lem>うれしう</lem>
+                  <rdg wit="#靑横">
+                     うれし
+                     <subst>
+                        <del>く</del>
+                        <add>う</add>
+                     </subst>
+                  </rdg>
+               </app>
+               <app>
+                  <lem>おほえけり</lem>
+                  <rdg wit="#河">覺えけれは</rdg>
+               </app>
+               <app>
+                  <lem>おさなき心地にい</lem>
+                  <rdg wit="#河七">おさなき心地にいて</rdg>
+                  <rdg wit="#河宮 #河尾 #河平 #河大">おさな心ちに</rdg>
+               </app>か</seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0086-02.json">
                <app>
@@ -256,7 +284,21 @@
                   <lem>おりと</lem>
                   <rdg wit="#靑肖 #靑三 #河">おりにと</rdg>
                </app>
-             まちわたるにきのかみくにゝくたりなとして女とちのとやかなる</seg>
+               まちわたるにきのかみ
+               <app>
+                  <lem>くにゝ</lem>
+                  <rdg wit="#河"></rdg>
+               </app>
+               くたり
+               <app>
+                  <lem>なと</lem>
+                  <rdg wit="#靑横">なんと</rdg>
+               </app>
+               して女とち
+               <app>
+                  <lem>のとやかなる</lem>
+                  <rdg></rdg>
+               </app></seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0086-03.json">ゆふやみのみちたと〱しけなるまきれにわかくるまにてゐてたてまつるこの</seg>
             <lb />
