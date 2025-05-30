@@ -59,7 +59,7 @@
                <witness xml:id="靑肖">靑表紙本系 肖柏本</witness>
                <witness xml:id="靑三">靑表紙本系 三條西家本</witness>
                <witness xml:id="靑大">靑表紙本系 大島本</witness>
-               <!-->別本の詳細要入力<-->
+               <!-->本の詳細要入力<-->
                <witness xml:id="靑秀">靑表紙本系 伝冷泉為秀筆本</witness>
                <witness xml:id="河">河内本系</witness>
                <witness xml:id="河宮">河内本系　高松宮本</witness>
@@ -67,7 +67,7 @@
                <witness xml:id="河爲">河内本系　爲家本</witness>
                <witness xml:id="河平">河内本系　平瀬本</witness>
                <witness xml:id="河大">河内本系　大島本</witness>
-               <!-->別本の詳細要入力<-->
+               <!-->本の詳細要入力<-->
                <witness xml:id="河七">河内本系　?</witness>
                <witness xml:id="別">別本</witness>
                <witness xml:id="御">別本 御物本</witness>
@@ -197,11 +197,13 @@
                   <lem>ほそくちいさきほと</lem>
                   <rdg wit="#河">ちいさくほそやかにて</rdg>
                   <rdg wit="#別陽">ちゐさくほそやかにて</rdg>
+                  <rdg wit="#別飯">ちいさき程</rdg>
+                  <rdg wit="#別桃">ちひさくほそやかなるにて</rdg>
                </app>
                かみの
                <app>
                   <lem>いと</lem>
-                  <rdg wit="#河">いとしも</rdg>
+                  <rdg wit="#河 #別陽 #別麥 #別桃">いとしも</rdg>
                </app>
                なかゝらさりしけはひの
                <app>
@@ -209,25 +211,74 @@
                   <rdg wit="#靑池"><add>さ</add>ま</rdg>
                   <rdg wit="#靑秀"></rdg>
                   <rdg wit="#靑三"><del>さま</del></rdg>
-                  <rdg wit="#河">さまも</rdg>
+                  <rdg wit="#河 #別陽">さまも</rdg>
                </app>
                <app>
                   <lem>かよひたる</lem>
                   <rdg wit="#靑横"><add>に</add>かよひたる</rdg>
-                  <rdg wit="#靑秀 #靑肖 #靑三 #河">にかよひたる</rdg>
+                  <rdg wit="#靑秀 #靑肖 #靑三 #河 #別陽 #別麥 #別阿 #別桃">にかよひたる</rdg>
                </app>
             </seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0085-05.json">
                <app>
                   <lem>も</lem>
-                  <rdg wit="#河"></rdg>
+                  <rdg wit="#河 #別陽"></rdg>
                </app>
-               おもひなしにやあはれなりあなかちにかゝつらひたとりよらむも人わろかる</seg>
+               おもひなしにやあはれなり
+               <app>
+                  <lem>あなかちに</lem>
+                  <rdg wit="#靑秀">あなかち<add>に</add></rdg>
+               </app>
+               かゝつらひたとりよらむも人わろかる</seg>
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0085-06.json">へくまめやかにめさましとおほしあかしつゝれいのやうにものたまひまつはさ</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0085-06.json">
+               <app>
+                  <lem>へく</lem>
+                  <rdg wit="#別麥 #別阿">へきに</rdg>
+               </app>
+               まめやかに
+               <app>
+                  <lem>めさましと</lem>
+                  <rdg wit="#別陽">ものし</rdg>
+                  <rdg wit="#別麥 #別阿 #別桃">物しと</rdg>
+               </app>
+               <app>
+                  <lem>おほしあかしつゝ</lem>
+                  <rdg wit="#河 #別桃">おほしあかしつ</rdg>
+                  <rdg wit="#別陽">あかしつ</rdg>
+                  <rdg wit="#別飯">おもほしあかしつれは</rdg>
+                  <rdg wit="#別麥 #別阿">おもほして</rdg>
+               </app>
+               れいの
+               <app>
+                  <lem>やうにも</lem>
+                  <rdg wit="#別陽">やうに</rdg>
+               </app>
+               <app>
+                  <lem>のたまひまつはさ</lem>
+                  <rdg wit="#河">の給まつはさ</rdg>
+                  <rdg wit="#靑横 #靑肖">のたまひまとはさ</rdg>
+                  <rdg wit="#靑横 #靑肖">のたまひま
+                     <subst>
+                        <del>と</del>
+                        <add>つ</add>
+                     </subst>
+                     はさ
+                  </rdg>
+                  <rdg wit="#別飯">もののたまは</rdg>
+                  <rdg wit="#別麥">の給ひあかさ</rdg>
+                  <rdg wit="#別阿">の給ひあか</rdg>
+                  <rdg wit="#別桃">ゝのものたまいまとはさ</rdg>
+               </app>
+            </seg>
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0085-07.json">す夜ふかういてたまへはこのこはいといとをしくさう〱しと思ふ女もなみ</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0085-07.json">
+               <app>
+                  <lem>す</lem>
+                  <wit wit="#河 #別陽 #別桃">て</wit>
+               </app>
+               夜ふかういてたまへはこのこはいといとをしくさう〱しと思ふ女もなみ</seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0085-08.json">〱ならすかたはらいたしと思ふに御せうそこもたえてなしおほしこりにける</seg>
             <lb />
