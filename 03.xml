@@ -254,6 +254,8 @@
                <app>
                   <lem>のたまひまつはすは</lem>
                   <rdg wit="#別陽">の給はするは</rdg>
+                  <rdg wit="#別飯">のたますは</rdg>
+                  <rdg wit="#別桃">のたまひめくらす</rdg>
                </app>
                <app>
                   <lem>うれしう</lem>
@@ -268,26 +270,40 @@
                <app>
                   <lem>おほえけり</lem>
                   <rdg wit="#河">覺えけれは</rdg>
+                  <rdg wit="#別陽 #別飯 #別桃">おほえけれは</rdg>
                </app>
                <app>
-                  <lem>おさなき心地にい</lem>
-                  <rdg wit="#河七">おさなき心地にいて</rdg>
+                  <lem>おさなき心地に</lem>
+                  <rdg wit="#河七">おさなき心地にて</rdg>
                   <rdg wit="#河宮 #河尾 #河平 #河大">おさな心ちに</rdg>
-               </app>か</seg>
+                  <rdg wit="#別陽">おさな心地と</rdg>
+                  <rdg wit="#別麥 #別阿">おさなき心に</rdg>
+               </app>いか</seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0086-02.json">
                <app>
                   <lem>ならん</lem>
-                  <rdg wit="#河">なる</rdg>
+                  <rdg wit="#河 #別陽 #別飯">なる</rdg>
+                  <rdg wit="#別桃">ならむ</rdg>
+                  <rdg></rdg>
                </app>
                <app>
                   <lem>おりと</lem>
                   <rdg wit="#靑肖 #靑三 #河">おりにと</rdg>
+                  <rdg wit="#別陽 #別飯">をりをと</rdg>
+                  <rdg wit="#別麥 #別阿">おりにかと</rdg>
+                  <rdg wit="#別桃">おりおと</rdg>
                </app>
-               まちわたるにきのかみ
+               <app>
+                  <lem>まちわたるに</lem>
+                  <rdg wit="#別陽">思わたる</rdg>
+                  <rdg wit="#別飯">おもひわたれるに</rdg>
+                  <rdg wit="#別桃">おもひまちわたる</rdg>
+               </app>
+               きのかみ
                <app>
                   <lem>くにゝ</lem>
-                  <rdg wit="#河"></rdg>
+                  <rdg wit="#河 #別陽"></rdg>
                </app>
                くたり
                <app>
@@ -297,7 +313,8 @@
                して女とち
                <app>
                   <lem>のとやかなる</lem>
-                  <rdg></rdg>
+                  <rdg wit="#河七">のとやかになるころ</rdg>
+                  <rdg wit="#河宮 #河尾 #河平 #河大 #別陽 #別桃">のとやかなるころ</rdg>
                </app></seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0086-03.json">ゆふやみのみちたと〱しけなるまきれにわかくるまにてゐてたてまつるこの</seg>
