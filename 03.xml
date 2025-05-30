@@ -349,7 +349,28 @@
                        </rdg>
                </app>さしむか</seg>
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0087-03.json">ひたらむ人なとにもわさとみゆましうもてなしたりてつきやせ〱にていたう</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0087-03.json">　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+               <app>
+                  <lem>ひたらむ</lem>
+                  <rdg wit="#靑池">ひたらる </rdg> 
+                     <rdg wit="#靑三"> ひたら
+                        <subst>
+                           <del>らん</del>
+                           <add>る</add>
+                        </subst> 
+                     </rdg> 
+               </app>人なとにもわさとみゆましうもてなしたりてつき
+               <app>
+                  <lem>やせ〱にて</lem>
+                  <rdg wit="#靑肖">やせ〱として</rdg>
+                  <rdg wit="#靑三">やせ〱
+                     <subst>
+                        <del>とし</del>
+                        <add>に</add>
+                     </subst>て
+                  </rdg>
+               </app>
+               いたう</seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0087-04.json">ひきかくしためりいまひとりはひむかしむきにてのこる所なくみゆしろきうす</seg>
             <lb />
@@ -357,7 +378,11 @@
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0087-06.json">こしひきゆへるきはまてむねあらはにはうそくなるもてなしなりいとしろうお</seg>
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0087-07.json">かしけにつふ〱とこゑてそゝろかなる人の頭つきひたいつきものあさやかに</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0087-07.json">かしけにつふ〱とこゑて
+               <app>
+                  <lem>そゝろか</lem>
+                  <rdg wit="#靑秀">そろゝか</rdg>
+               </app>なる人の頭つきひたいつきものあさやかに</seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0087-08.json">まみくちつきいとあひきやうつきはなやかなるかたちなりかみはいとふさやか</seg>
             <lb />
