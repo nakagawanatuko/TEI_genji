@@ -59,6 +59,7 @@
                <witness xml:id="靑肖">靑表紙本系 肖柏本</witness>
                <witness xml:id="靑三">靑表紙本系 三條西家本</witness>
                <witness xml:id="靑大">靑表紙本系 大島本</witness>
+               <witness xml:id="青御">青表紙本系 ?</witness>
                <!-->本の詳細要入力<-->
                <witness xml:id="靑秀">靑表紙本系 伝冷泉為秀筆本</witness>
                <witness xml:id="河">河内本系</witness>
@@ -278,7 +279,21 @@
                   <lem>す</lem>
                   <wit wit="#河 #別陽 #別桃">て</wit>
                </app>
-               夜ふかういてたまへはこのこはいといとをしくさう〱しと思ふ女もなみ</seg>
+               <app>
+                  <lem>夜ふかう</lem>
+                  <rdg wit="#靑池 #靑秀">夜ふかく</rdg>
+                  <rdg wit="#別桃">よにかく</rdg>
+               </app>
+               いてたまへはこのこは
+               <app>
+                  <lem>いといとをしくさう〱しと思ふ</lem>
+                  <rdg wit="#靑三">いと<add>いと</add>をしくさう〱しと思ふ</rdg>
+                  <rdg wit="#河">いとさう〱しういとおしと思へり</rdg>
+                  <rdg wit="#別麥 #別阿">いとをしくさう〱しと思ふ</rdg>
+                  <rdg wit="#別陽 #別飯">いとさう〱しういとをしとおもへり</rdg>
+                  <rdg wit="#別桃">いといとをしくさう〱しと思ふ</rdg>
+               </app>
+               女もなみ</seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0085-08.json">〱ならすかたはらいたしと思ふに御せうそこもたえてなしおほしこりにける</seg>
             <lb />
