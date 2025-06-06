@@ -291,11 +291,17 @@
                   <rdg wit="#河">いとさう〱しういとおしと思へり</rdg>
                   <rdg wit="#別麥 #別阿">いとをしくさう〱しと思ふ</rdg>
                   <rdg wit="#別陽 #別飯">いとさう〱しういとをしとおもへり</rdg>
-                  <rdg wit="#別桃">いといとをしくさう〱しと思ふ</rdg>
+                  <rdg wit="#別桃">いとくちをしく思ひけり</rdg>
                </app>
                女もなみ</seg>
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0085-08.json">〱ならすかたはらいたしと思ふに御せうそこもたえてなしおほしこりにける</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0085-08.json">
+               <app>
+                  <lem>〱ならす</lem>
+                  <rdg wit="#別阿">〱ならすは</rdg>
+                  <rdg wit="#別桃">〱ならぬ</rdg>
+               </app>
+               かたはらいたしと思ふに御せうそこもたえてなしおほしこりにける</seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0085-09.json">と思にもやかてつれなくてやみ給なましかはうからまししゐていとをしき御ふ</seg>
             <lb />
