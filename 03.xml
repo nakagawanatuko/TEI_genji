@@ -682,7 +682,12 @@
             <lb />
             <pb n="87" facs="#zone_0087" />
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0087-01.json">とゝめたまへはこきあやのひとへかさね
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0087-01.json">
+               <app>
+                  <lem>とゝめたまへは</lem>
+                  <rdg wit="#河">とめ給へは</rdg>
+               </app>
+               こきあやのひとへかさね
                <app>
                   <lem>なめり</lem>
                   <rdg wit="#靑横">なんめり</rdg>
@@ -715,7 +720,21 @@
                            <add>る</add>
                         </subst> 
                      </rdg> 
-               </app>人なとにもわさとみゆましうもてなしたりてつき
+               </app>
+               <app>
+                  <lem>人なとにも</lem>
+                  <rdg wit="#河">人にも</rdg>
+               </app>
+               わさと
+               <app>
+                  <lem>みゆましう</lem>
+                  <rdg wit="#河七">みゆるましう</rdg>
+               </app>
+               もてなしたり
+               <app>
+                  <lem>てつき</lem>
+                  <rdg wit="#河宮 #河尾 #河大">てつきも</rdg>              
+               </app>              
                <app>
                   <lem>やせ〱にて</lem>
                   <rdg wit="#靑肖">やせ〱として</rdg>
@@ -728,11 +747,26 @@
                </app>
                いたう</seg>
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0087-04.json">ひきかくしためりいまひとりはひむかしむきにてのこる所なくみゆしろきうす</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0087-04.json">ひきかくしためりいまひとりはひ
+               <app>
+                  <lem>むかしむきにてのこる所なく</lem>
+                  <rdg wit="#河">東にむきてのこりなく</rdg>
+               </app>
+               みゆしろきうす</seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0087-05.json">物のひとへかさね二あひのこうちきたつものないかしろにきなしてくれなゐの</seg>
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0087-06.json">こしひきゆへるきはまてむねあらはにはうそくなるもてなしなりいとしろうお</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0087-06.json">こしひきゆへる
+               <app>
+                  <lem>きは</lem>
+                  <rdg wit="#河">程</rdg>
+               </app>
+               まて
+               <app>
+                  <lem>むねあらはに</lem>
+                  <rdg wit="#河">あらはにすこし</rdg>
+               </app>
+               はうそくなるもてなしなりいとしろうお</seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0087-07.json">かしけにつふ〱とこゑて
                <app>
@@ -757,11 +791,27 @@
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0087-11.json">心ちそなをしつかなるけをそへはやとふとみゆるかとなきにはあるましこうち</seg>
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0087-12.json">はてゝけちさすわたりこゝろとけにみえてきは〱とさうとけはおくの人はい</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0087-12.json">はてゝけちさすわたりこゝろとけにみえて
+               <app>
+                  <lem>きは〱と</lem>
+                  <rdg wit="#靑池 #靑肖 #靑三">きは〱しぅ</rdg>
+               </app>
+               さうとけはおくの人はい</seg>
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0087-13.json">としつかにのとめてまち給へやそこは持にこそあらめこのわたりのこうをこそ</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0087-13.json">としつかに
+               <app>
+                  <lem>のとめて</lem>
+                  <rdg wit="#青御">のとのとめて</rdg>
+               </app>
+               まち給へやそこは持にこそあらめこのわたりのこうをこそ</seg>
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0087-14.json">なといへといてこのたひはまけにけりすみの所いて〱とおよひをかゝめてと</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0087-14.json">なといへといてこのたひはまけにけりすみの
+               <app>
+                  <lem>所</lem>
+                  <rdg wit="#青御 #靑池 #靑秀 #靑肖 #靑三">ところ〱</rdg>
+                  <rdg wit="#靑横">ところ〱</rdg>
+               </app>
+               いて〱とおよひをかゝめてと</seg>
             <lb />
             <pb n="88" facs="#zone_0088" />
             <lb />
