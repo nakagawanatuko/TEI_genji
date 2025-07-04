@@ -522,6 +522,9 @@
                   <rdg wit="#河 #別陽 #別飯">といふなれは</rdg>                 
                   <rdg wit="#別麥 #別阿">といひて</rdg>
                   <rdg wit="#別桃">といふなれはと</rdg>
+                  <rdg wit="#靑秀"><subst>
+                        <add>といふなり</add>
+                  </subst></rdg>
                </app>
                <app>
                   <lem>なそかう</lem>
@@ -678,7 +681,14 @@
                   <rdg wit="#別飯">心にかゝるひとならむと</rdg>
                   <rdg wit="#別麥 #別阿">心かくる人と</rdg>
                   <rdg wit="#別桃">心かゝる人ならむと</rdg>
-               </app>まつめ</seg>
+               </app>
+               <app>
+                  <lem>まつ</lem>
+                  <rdg wit="#靑秀"><subst>
+                        <add>まつ</add>
+                  </subst></rdg>
+               </app>
+               め</seg>
             <lb />
             <pb n="87" facs="#zone_0087" />
             <lb />
