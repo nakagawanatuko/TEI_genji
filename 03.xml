@@ -986,6 +986,7 @@
                <app>
                   <lem>ものあさやかに</lem>
                   <rdg wit="#別麥 #別阿"></rdg>
+                  <!- くちつき物あやさかなる 桃->
                </app>
             </seg>
             <lb />
@@ -1021,14 +1022,23 @@
                <rdg wit="#靑池 #別陽 #別飯 #別桃"></rdg>
                </app>ねちけたる所な</seg>
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0087-10.json">く
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0087-10.json">
+               <app>
+                  <lem>く</lem>
+                  <rdg wit="#別麥 #別阿">うて</rdg>
+                  <rdg wit="#別桃">し</rdg>
+               </app>
+              
                <app>
                   <lem>おかしけなる人とみえたり</lem>
                   <rdg wit="#河 #別陽 #別桃"></rdg>
                </app>
                <app>
                   <lem>むへこそおやのよになくは思らめとおかしく</lem>
-                  <rdg wit="#河">むへこそはおやのになく思らめと</rdg>
+                  <rdg wit="#河 #別桃">むへこそはおやのになく思らめと</rdg>
+                  <rdg wit="#別陽">むへこそはおやのよになくおもはめと</rdg>
+                  <rdg wit="#別飯">むへこそはおやのよになくは思らめとおかしく</rdg>
+                  <rdg wit="#別麥 #別阿">むへこそはおやのになうは思らめとおかしく</rdg>
                </app>
                み給</seg>
             <lb />
@@ -1078,7 +1088,12 @@
                   <lem>こそ</lem>
                   <rdg wit="#河平"></rdg>
                </app>
-               あらめこのわたりのこうをこそ</seg>
+               あらめこのわたりのこうを
+               <app>
+                  <lem>こそ</lem>
+                  <rdg wit="#別陽"></rdg>
+               </app>
+               </seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0087-14.json">なと
                <app>
