@@ -1145,7 +1145,7 @@
                </app>
                さまいよのゆけたもたと〱しかるましうみゆす</seg>
          
-    
+  
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0088-02.json">こししなをくれたりたとしへなく〱ちおほひてさやかにもみせねとめをしつけ</seg>
             <lb />
@@ -1284,6 +1284,11 @@
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0092-01.json">るけはひもあはれなれはさすかになさけ〱しくちきりをかせ給人しりたるこ</seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0092-02.json">とよりもかやうなるはあはれもそふ事となむ昔人もいひけるあひおもひたまへ</seg>
+            <app>
+               <lem>あはれも</lem>
+               <rdg wit="#靑横 #靑池 #靑秀">あはれ</rdg>
+               <rdg wit="#靑三">あはれも</rdg>
+            </app>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0092-03.json">よつゝむことなきにしもあらねはみなから心にもえまかすましくなんありける</seg>
             <lb />
