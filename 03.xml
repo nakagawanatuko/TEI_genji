@@ -1122,7 +1122,12 @@
             <lb />
             <pb n="88" facs="#zone_0088" />
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0088-01.json">をはたみそよそなとかさふるさまいよのゆけたもたと〱しかるましうみゆす</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0088-01.json">をはたみそよそなと
+               <app>
+                  <lem>かさふる</lem>
+                  <rdg wit="#青御 #青横 #靑池 #靑秀 #靑肖 #靑三">かそふる</rdg>
+               </app>
+               さまいよのゆけたもたと〱しかるましうみゆす</seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0088-02.json">こししなをくれたりたとしへなく〱ちおほひてさやかにもみせねとめをしつけ</seg>
             <lb />
