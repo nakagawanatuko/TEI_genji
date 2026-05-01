@@ -1173,7 +1173,13 @@
             <lb />
             <pb n="89" facs="#zone_0089" />
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0089-01.json">うこそあへけれとのたまへはなとてかあなたにかへり侍りなはたはかり侍なん</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0089-01.json">うこそ
+               <app>
+                  <lem>あへけれと</lem>
+                  <rdg wit="#青秀">あむへけれと</rdg>
+                  <rdg wit="#河">あれと</rdg>
+               </app>
+               のたまへはなとてかあなたにかへり侍りなはたはかり侍なん</seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0089-02.json">ときこゆさもなひかしつへきけしきにこそはあらめわらはなれとものゝこゝろ</seg>
             <lb />
