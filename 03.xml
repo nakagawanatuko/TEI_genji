@@ -1145,10 +1145,7 @@
                </app>
                さまいよのゆけたもたと〱しかるましうみゆす</seg>
          
-            <app>
-               <lem>はかまを</lem>
-               <rdg wit="#青池">はかまを</rdg>
-            </app>
+    
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0088-02.json">こししなをくれたりたとしへなく〱ちおほひてさやかにもみせねとめをしつけ</seg>
             <lb />
