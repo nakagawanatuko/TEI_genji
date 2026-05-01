@@ -1144,6 +1144,11 @@
                   <rdg wit="#青御 #青横 #靑池 #靑秀 #靑肖 #靑三">かそふる</rdg>
                </app>
                さまいよのゆけたもたと〱しかるましうみゆす</seg>
+         
+            <app>
+               <lem>はかまを</lem>
+               <rdg wit="#青池">はかまを</rdg>
+            </app>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0088-02.json">こししなをくれたりたとしへなく〱ちおほひてさやかにもみせねとめをしつけ</seg>
             <lb />
