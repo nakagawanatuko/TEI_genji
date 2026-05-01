@@ -1178,7 +1178,13 @@
             <lb />
             <pb n="89" facs="#zone_0089" />
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0089-01.json">うこそあへけれとのたまへはなとてかあなたにかへり侍りなはたはかり侍なん</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0089-01.json">うこそ
+               <app>
+                  <lem>あへけれと</lem>
+                  <rdg wit="#青秀">あむへけれと</rdg>
+                  <rdg wit="#河">あれと</rdg>
+               </app>
+               のたまへはなとてかあなたにかへり侍りなはたはかり侍なん</seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0089-02.json">ときこゆさもなひかしつへきけしきにこそはあらめわらはなれとものゝこゝろ</seg>
             <lb />
@@ -1208,7 +1214,13 @@
             <lb />
             <pb n="90" facs="#zone_0090" />
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0090-01.json">にやをら入たてまつるいかにそおこかましき事もこそとおほすにいとつゝまし</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0090-01.json">にやをら入たてまつる
+               <app>
+                  <lem>いかにそ</lem>
+                  <rdg wit="#別麥 #別阿">いかに</rdg>
+                  <rdg wit="#別桃">いかにそと</rdg>
+               </app>
+               おこかましき事もこそとおほすにいとつゝまし</seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0090-02.json">けれとみちひくまゝにもやの木丁のかたひらひきあけていとやをらいり給とす</seg>
             <lb />
@@ -1241,6 +1253,10 @@
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0091-01.json">ましくこ〱ろやましけれと人たかへとたとりてみえんもおこかましくあやしと</seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0091-02.json">おもふへしほいの人をたつねよらむもかはかりのかるゝこゝろあめれはかひな</seg>
+               <app>
+                  <lem>たつね</lem>
+                  <rdg wit="#靑横">たとり</rdg>
+               </app>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0091-03.json">ふおこにこそおもはめとおほすかのおかしかりつるほかけならはいかゝはせむ</seg>
             <lb />
