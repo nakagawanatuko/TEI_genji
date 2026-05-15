@@ -1253,7 +1253,26 @@
             <lb />
             <pb n="91" facs="#zone_0091" />
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0091-01.json">ましくこ〱ろやましけれと人たかへとたとりてみえんもおこかましくあやしと</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0091-01.json">ましくこ〱ろやましけれと
+               <app>
+                  <lem>人たかへと</lem>
+                  <rdg wit="#別麥 #別阿">人たかへかと</rdg>
+               </app>
+               <app>
+                  <lem>たとりて</lem>
+                  <rdg wit="#別桃">たとり</rdg>
+               </app>
+               みえんも
+               <app>
+                  <lem>おこかましく</lem>
+                  <rdg wit="#河">いとをこかましく</rdg>
+                  <rdg wit="#別陽 #別飯">いとをこかましう</rdg>
+               </app>
+               <app>
+                  <lem>あやしと</lem>
+                  <rdg wit="#別陽"></rdg>
+               </app>
+            </seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0091-02.json">おもふへしほいの人をたつねよらむもかはかりのかるゝこゝろあめれはかひな</seg>
                <app>
