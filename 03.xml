@@ -1282,6 +1282,10 @@
             <pb n="92" facs="#zone_0092" />
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0092-01.json">るけはひもあはれなれはさすかになさけ〱しくちきりをかせ給人しりたるこ</seg>
+            <app>
+               <lem>ちきりをかせ給</lem>
+               <rdg wit="#河">ちきりをき給ふ</rdg>
+            </app>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0092-02.json">とよりもかやうなるはあはれもそふ事となむ昔人もいひけるあひおもひたまへ</seg>
             <app>
