@@ -1181,13 +1181,7 @@
                   <rdg wit="#青秀">あむへけれと</rdg>
                   <rdg wit="#河">あれと</rdg>
                </app>
-               のたまへはなとてかあなたにかへり侍りなはたはかり
-               <app>
-                  <lem>侍なん</lem>
-                  <rdg wit="#別陽">はへるなむ</rdg>
-                  <rdg wit="#別飯">侍らんな</rdg>
-               </app>
-            </seg>
+               のたまへはなとてかあなたにかへり侍りなはたはかり侍なん</seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0089-02.json">ときこゆさもなひかしつへきけしきにこそはあらめわらはなれとものゝこゝろ</seg>
             <lb />
@@ -1298,6 +1292,10 @@
                <lem>あはれも</lem>
                <rdg wit="#靑横 #靑池 #靑秀">あはれ</rdg>
                <rdg wit="#靑三">あはれも</rdg>
+               <lem>昔人も</lem>
+               <rdg wit="#靑横">むかしも</rdg>
+               <rdg wit="#靑秀">むかしも人も</rdg>
+               <rdg wit="#靑肖">むかしの人も</rdg>
             </app>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0092-03.json">よつゝむことなきにしもあらねはみなから心にもえまかすましくなんありける</seg>
