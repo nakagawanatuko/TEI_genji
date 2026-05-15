@@ -1215,11 +1215,52 @@
                   <rdg wit="#別麥 #別阿">いかに</rdg>
                   <rdg wit="#別桃">いかにそと</rdg>
                </app>
-               おこかましき事もこそとおほすにいとつゝまし</seg>
+               おこかましき
+               <app>
+                  <lem>事も</lem>
+                  <rdg wit="#河七">事に</rdg>
+               </app>
+               こそとおほすにいとつゝまし</seg>
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0090-02.json">けれとみちひくまゝにもやの木丁のかたひらひきあけていとやをらいり給とす</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0090-02.json">けれと
+               <app>
+                  <lem>みちひくまゝに</lem>
+                  <rdg wit="#靑池"><add>みちひくまゝに</add></rdg>
+               </app>
+               もやの木丁のかたひらひきあけて
+               <app>
+                  <lem>いと</lem>
+                  <rdg wit="#別桃"></rdg>
+               </app>
+               <app>
+                  <lem>やをら</lem>
+                  <rdg wit="#靑肖">やはら</rdg>
+                  <rdg wit="#靑三">や<del>は</del><add>を</add>ら</rdg>
+                  <rdg wit="#別麥 #別阿">やはらかに</rdg>
+               </app>
+               <app>
+                  <lem>いり給</lem>
+                  <rdg wit="#靑池"><del>いて</del>いりたまふ</rdg>
+               </app>
+               とす</seg>
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0090-03.json">れとみなしつまれるよの御そのけはひやはらかなるしもいとしるかりけり女は</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0090-03.json">れとみなしつまれる
+               <app>
+                  <lem>よの</lem>
+                  <rdg wit="#別飯">よる</rdg>
+               </app>
+               御その
+               <app>
+                  <lem>けはひ</lem>
+                  <rdg wit="#河 #別陽">けはいの</rdg>
+               </app>
+               <app>やはらかなる</app>
+               しも
+               <app>いと</app>
+               しるかり
+               <app>けり</app>
+               <app>女は</app>
+            </seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0090-04.json">さこそわすれ給をうれしきにおもひなせとあやしくゆめのやうなることをこゝ</seg>
             <lb />
