@@ -1287,17 +1287,20 @@
                <rdg wit="#河">ちきりをき給ふ</rdg>
             </app>
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0092-02.json">とよりもかやうなるはあはれもそふ事となむ昔人もいひけるあひおもひたまへ</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0092-02.json">
+               とよりもかやうなるは
             <app>
                <lem>あはれも</lem>
                <rdg wit="#靑横 #靑池 #靑秀">あはれ</rdg>
                <rdg wit="#靑三">あはれも</rdg>
+               そふ事となむ
                <lem>昔人も</lem>
                <rdg wit="#靑横">むかしも</rdg>
                <rdg wit="#靑秀">むかしも人も</rdg>
                <rdg wit="#靑肖">むかしの人も</rdg>
             </app>
-            
+              いひけるあひおもひたまへ
+            </seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0092-03.json">よつゝむことなきにしもあらねはみなから心にもえまかすましくなんありける</seg>
             <lb />
