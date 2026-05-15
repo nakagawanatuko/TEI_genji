@@ -1181,7 +1181,13 @@
                   <rdg wit="#青秀">あむへけれと</rdg>
                   <rdg wit="#河">あれと</rdg>
                </app>
-               のたまへはなとてかあなたにかへり侍りなはたはかり侍なん</seg>
+               のたまへはなとてかあなたにかへり侍りなはたはかり
+               <app>
+                  <lem>侍なん</lem>
+                  <rdg wit="#別陽">はへるなむ</rdg>
+                  <rdg wit="#別飯">侍らんな</rdg>
+               </app>
+            </seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0089-02.json">ときこゆさもなひかしつへきけしきにこそはあらめわらはなれとものゝこゝろ</seg>
             <lb />
