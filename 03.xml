@@ -1285,21 +1285,42 @@
             <app>
                <lem>ちきりをかせ給</lem>
                <rdg wit="#河">ちきりをき給ふ</rdg>
+               <rdg wit="#別陽">ゝちゝきりおき</rdg>
+               <rdg wit="#別桃 #別飯">ちきりをき</rdg>
             </app>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0092-02.json">
-               とよりもかやうなるは
+               とよりも
             <app>
-               <lem>あはれも</lem>
+               <lem>かやうなる</lem>
+               <rdg wit="#別飯">かようなること</rdg>
+             </app>
+            <app>
+               <lem>あはれもそふ事となむ</lem>
                <rdg wit="#靑横 #靑池 #靑秀">あはれ</rdg>
+               <rdg wit="#別">あはれ</rdg>
                <rdg wit="#靑三">あはれも</rdg>
-               そふ事となむ
+               <rdg wit="#河">あはれそふわさになん</rdg>
+               <rdg wit="#別桃">わさとそ</rdg>
+             </app>
+             <app>
                <lem>昔人も</lem>
                <rdg wit="#靑横">むかしも</rdg>
                <rdg wit="#靑秀">むかしも人も</rdg>
-               <rdg wit="#靑肖">むかしの人も</rdg>
-            </app>
-              いひけるあひおもひたまへ
+               <rdg wit="#靑肖 #別麥 #別阿 #別桃">むかしの人も</rdg>
+               <rdg wit="#別飯">むかしの人の</rdg>
+               <rdg wit="#河 #別陽">むかしの人/rdg>
+            　</app>
+              <app>
+              <lem>いひける</lem>
+              <rdg wit="#別麥 #別阿">いひけるを</rdg>
+              </app>
+               あひ
+             <app>
+              <lem>おもひたまへよ</lem>
+               <rdg wit="#別阿">おもひ給へは</rdg>
+               <rdg wit="#別桃">おもへ給</rdg>
+             </app>
             </seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0092-03.json">よつゝむことなきにしもあらねはみなから心にもえまかすましくなんありける</seg>
