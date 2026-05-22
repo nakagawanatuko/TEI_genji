@@ -1138,16 +1138,42 @@
             <lb />
             <pb n="88" facs="#zone_0088" />
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0088-01.json">をはたみそよそなと
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0088-01.json">を
+               <app>
+                  <lem>はた</lem>
+                  <rdg wit="#靑大">はた<del hand="朱">ち</del></rdg>
+               </app>
+               みそよそ
+               <app>
+                  <lem>なと</lem>
+                  <rdg wit="#別麥 #別阿">と</rdg>
+               </app>
                <app>
                   <lem>かさふる</lem>
-                  <rdg wit="#青御 #青横 #靑池 #靑秀 #靑肖 #靑三">かそふる</rdg>
+                  <rdg wit="#青御 #青横 #靑池 #靑秀 #靑肖 #靑三 #河 #別">かそふる</rdg>
                </app>
-               さまいよのゆけたもたと〱しかるましうみゆす</seg>
+               さまいよの
+               <app>
+                  <lem>ゆけた</lem>
+                  <rdg wit="#靑池">ゆのゆ<del>た</del>け<add>た</add></rdg>
+                  <rdg wit="#靑秀 #別陽 #別桃">ゆのゆけた</rdg>
+                  <rdg wit="#靑三"><add>ゆの</add>ゆけた</rdg>
+               </app>
+               もたと〱しかるましうみゆ
+               <app>
+                  <lem>す</lem>
+                  <rdg wit="#河 #別陽 #別桃"></rdg>
+               </app>
+            </seg>
          
   
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0088-02.json">こししなをくれたりたとしへなく〱ちおほひてさやかにもみせねとめをしつけ</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0088-02.json">
+               <app>
+                  <lem>こししなをくれたり</lem>
+                  <rdg wit="#河 #別陽 #別桃"></rdg>
+               </app>
+               たとしへなく〱ちおほひてさやかにもみせねとめをしつけ</seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0088-03.json">たまへれはをのつからそはめもみゆめすこしはれたる心ちしてはななともあさ</seg>
             <lb />
