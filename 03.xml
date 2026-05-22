@@ -1274,11 +1274,36 @@
                </app>
             </seg>
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0091-02.json">おもふへしほいの人をたつねよらむもかはかりのかるゝこゝろあめれはかひな</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0091-02.json">おもふへしほいの人を
                <app>
-                  <lem>たつね</lem>
-                  <rdg wit="#靑横">たとり</rdg>
+                  <lem>たつねよらむも</lem>
+                  <rdg wit="#靑横">たとりよらむも</rdg>
+                  <rdg wit="#別陽">たつねよらんにも</rdg>
+                  <rdg wit="#別麥 #別阿">たつねとはむに</rdg>
                </app>
+               <app>
+                  <lem>かはかり</lem>
+                  <rdg wit="#別陽 #別飯 #別麥">かはかりの</rdg>
+               </app>
+               <app>
+                  <lem>のかるゝ</lem>
+                  <rdg wit="#別陽 #別麥">かゝる</rdg>
+                  <rdg wit="#別飯"></rdg>
+                  <rdg wit="#別桃">のかれかくるゝ</rdg>
+               </app>
+               <app>
+                  <lem>こゝろあめれは</lem>
+                  <rdg wit="#別陽 #別桃 #別飯">こゝろなれは</rdg>
+                  <rdg wit="#別麥 #別阿">こゝろなめれは</rdg>
+                  <rdg wit="#河">心なれは</rdg>
+                  <rdg wit="#靑秀 #靑横">こゝろあんめれは</rdg>
+               </app>
+               <app>
+                  <lem>かひなふ</lem>
+                  <rdg wit="#別陽">かひなし</rdg>
+                  <rdg wit="#靑池 #靑秀 #靑三 #靑肖">かひなく</rdg>
+               </app>
+            </seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0091-03.json">ふおこにこそおもはめとおほすかのおかしかりつるほかけならはいかゝはせむ</seg>
             <lb />
