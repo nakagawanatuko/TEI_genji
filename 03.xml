@@ -1298,14 +1298,32 @@
                   <rdg wit="#河">心なれは</rdg>
                   <rdg wit="#靑秀 #靑横">こゝろあんめれは</rdg>
                </app>
-               <app>
-                  <lem>かひなふ</lem>
-                  <rdg wit="#別陽">かひなし</rdg>
-                  <rdg wit="#靑池 #靑秀 #靑三 #靑肖">かひなく</rdg>
-               </app>
             </seg>
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0091-03.json">ふおこにこそおもはめとおほすかのおかしかりつるほかけならはいかゝはせむ</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0091-03.json">
+               <app>
+                  <lem>ふ</lem>
+                  <rdg wit="#別陽">し</rdg>
+                  <rdg wit="#靑池 #靑秀 #靑三 #靑肖">く</rdg>
+               </app>               
+               おこにこそおもはめと
+               <app>
+                  <lem>おほす</lem>
+                  <rdg wit="#靑秀">おもほす</rdg>
+                  <rdg wit="#別麥 #別阿">おもほゆ</rdg>
+                  <rdg wit="#別桃">おほすうちに</rdg>
+               </app>
+               <app>
+                  <lem>かの</lem>
+                  <rdg wit="#靑横">よるの</rdg>
+               </app>
+               おかしかりつるほかけならは
+               <app>
+                  <lem>いかゝはせむに</lem>
+                  <rdg wit="#河">いかゝはせむと</rdg>
+                  <rdg wit="#別陽 #別飯 #別麥 #別阿">いかゝはせんと</rdg>
+               </app>
+               </seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0091-04.json">におほしなるもわろき御こゝろあさゝなめりかしやう〱めさめていとおほえ</seg>
             <lb />
