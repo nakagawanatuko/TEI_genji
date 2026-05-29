@@ -1296,30 +1296,73 @@
                   <lem>ゆめのやうなる</lem>
                   <rdg wit="#河 #別">ゆめのやうなりし</rdg>
                </app>
-               ことをこゝ</seg>
+               <app>
+                  <lem>こと</lem>
+                  <rdg wit="#別麥 #別阿">御事</rdg>
+               </app>
+               をこゝ</seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0090-05.json">ろに
                <app>
                   <lem>はなるゝおりなき</lem>
+                  <rdg wit="#河七 #河宮 #河尾 #河大">はなるゝ時なき</rdg>
+                  <rdg wit="#河平 #別陽">はるゝ時なき</rdg>
+                  <rdg wit="#別阿">はるゝおりなき</rdg>
                </app>
                <app>
                   <lem>ころ</lem>
                   <rdg wit="#靑横">こゝち</rdg>
+                  <rdg wit="#別陽 #別桃">心</rdg>
                </app>
                にて
                <app>
                   <lem>心とけたるいたにねられすなむ</lem>
-                  <rdg wit="#靑池">いた<add>に</add></rdg>
+                  <rdg wit="#靑池">心とけたるいた<add>に</add>ねられすなむ</rdg>
+                  <rdg wit="#河">とけたるいもねられすなむ</rdg>
+                  <rdg wit="#別陽">とけたるいもねられすのみ</rdg>
+                  <rdg wit="#別飯">心とけたるゐもねられすなむ</rdg>
+                  <rdg wit="#別麥 #別阿">心とけたるいたにねられてなん</rdg>
+                  <rdg wit="#別桃">心とけたるいたにねられすのみ</rdg>
                </app>
                ひるは
                <app>
                   <lem>なかめ</lem>
+                  <rdg wit="#別桃">なかめくらし</rdg>
                </app>
                夜</seg>
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0090-06.json">はねさめかちなれは春ならぬこのめもいとなくなけかしきに五うちつる君こよ</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0090-06.json">はねさめかちなれは
+               <app>
+                 <lem>春ならぬ</lem>
+                 <rdg wit="#河平">はるかならぬ</rdg>
+                 <rdg wit="#河大">はるなら</rdg>
+               </app>
+               <app>
+                  <lem>このめ</lem>
+                  <rdg wit="#靑三">こ<add>の</add>め</rdg>
+               </app>
+               も
+               <app>
+                  <lem>いとなく</lem>
+               <rdg wit="#靑秀">いと<add>なく</add></rdg>
+               </app>
+               なけかしきに五うちつる君こよ</seg>
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0090-07.json">ひはこなたにといまめかしくうちかたらひてねにけりわかき人はなにこゝろな</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0090-07.json">ひは
+               <app>
+                  <lem>こなたにといまめかしく</lem>
+               </app>
+               うちかたらひて
+               <app>
+                  <lem>ねにけり</lem>
+                  <rdg wit="#別陽 #別飯 #別桃">ねたりけるを</rdg>
+               </app>
+               わかき人は
+               <app>
+                  <lem>なにこゝろな</lem>
+                  <rdg wit="#別">なに心もな</rdg>
+               </app>
+            </seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0090-08.json">くいとようまとろみたるへしかゝるけはひのいとかうはしくうちにほふにかほ</seg>
             <lb />
