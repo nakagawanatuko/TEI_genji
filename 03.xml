@@ -1181,7 +1181,12 @@
                   <rdg wit="#靑秀">あむへけれと</rdg>
                   <rdg wit="#河">あれと</rdg>
                </app>
-               のたまへはなとてかあなたにかへり侍りなはたはかり
+               のたまへはなとてか
+               <app>
+                  <lem>あなたに</lem>
+                  <rdg wit="#別陽">あなかちに</rdg>
+               </app>
+               かへり侍りなはたはかり
                <app>
                   <lem>侍なん</lem>
                   <rdg wit="#別陽">はへるなむ</rdg>
@@ -1195,13 +1200,41 @@
                   <rdg wit="#靑秀">なひか<del>い</del><add>し</add>つへき</rdg>
                   <rdg wit="#靑肖">なひかしつき</rdg>
                </app>
-               けしきに<app>
-                  <lem>こそは</lem>
-                  <rdg wit="#靑池">こそ<add>は</add></rdg>
+               <app>
+                  <lem>けしき</lem>
+                  <rdg wit="#河大"></rdg>
                </app>
-               あらめわらはなれとものゝこゝろ</seg>
+               に
+               <app>
+                  <lem>こそはあらめ</lem>
+                  <rdg wit="#靑池">こそ<add>は</add>あらめ</rdg>
+                  <rdg wit="#靑肖">こそあらめ</rdg>
+                  <reg wit="#靑三">こそ<add>は</add>あらめ</reg>
+                  <reg wit="#別陽">ことはあるらめ</reg>
+                  <rdg wit="#別飯">こそはあるらめ</rdg>
+                  <reg wit="#別麥 #別阿">こそあらめ</reg>
+               </app>
+               わらは
+               <app>
+                  <lem>なれと</lem>
+                  <rdg wit="#別陽 #別飯">なれとも</rdg>
+               </app>
+               <app>
+                  <lem>ものゝこゝろ</lem>
+                  <rdg wit="#河七">もの心</rdg>
+                  <rdg wit="#河宮 #河尾 #河平 #河大 #別陽">ものゝ心</rdg>
+                  <rdg wit="#別飯 #別麥 #別阿">物に心</rdg>
+                  <rdg wit="#別桃">物心</rdg>
+               </app>
+               </seg>
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0089-03.json">はへ人のけしきみつへくしつまれるをとおほすなりけり五うちはてつるにやあ</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0089-03.json">
+               <app>
+                  <lem>はへ</lem>
+                  <rdg wit="#河七 #河宮 #河尾 #河平 #河大 #別陽 #別麥 #別阿 #別桃">えて</rdg>
+                  <rdg wit="#別飯">え</rdg>
+               </app>
+               人のけしきみつへくしつまれるをとおほすなりけり五うちはてつるにやあ</seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0089-04.json">らむうちそよめく心ちしてひと〱あかるゝけはひなとす也わか君はいつくに</seg>
             <lb />
