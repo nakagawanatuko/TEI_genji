@@ -1234,7 +1234,33 @@
                   <rdg wit="#河七 #河宮 #河尾 #河平 #河大 #別陽 #別麥 #別阿 #別桃">えて</rdg>
                   <rdg wit="#別飯">え</rdg>
                </app>
-               人のけしきみつへくしつまれるをとおほすなりけり五うちはてつるにやあ</seg>
+               人の
+               <app>
+                  <lem>けしき</lem>
+                  <rdg wit="#河大"></rdg>
+                  <rdg wit="#別陽 #別飯">けしきも</rdg>
+               </app>
+               <app>
+                  <lem>みつへく</lem>
+                  <rdg wit="#靑横">みつへ</rdg>
+                  <rdg wit="靑池">みつへくも</rdg>
+                  <rdg wit="河宮">えつへく</rdg>
+                  <rdg wit="別桃">みえ</rdg>
+               </app>
+               <app>
+                  <lem>しつまれるをとおほす</lem>
+                  <rdg wit="#靑横">しゝまれる<del>ほ</del><add>を</add>と<del>をゝ</del><add>お</add>ほす</rdg>
+                  <!-- TODO: 未解決 -->
+                  <rdg wit="靑池">しつまれるをとおほす</rdg>
+                  <rdg wit="河七">しつまれる程おほす</rdg>
+                   
+               </app>
+               なりけり五うち
+               <app>
+                  <lem>はてつる</lem>
+                  <rdg wit="#靑秀 #河七 #河宮 #河尾 #河大 #別陽 #別飯">はつる</rdg>
+               </app>
+               にやあ</seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0089-04.json">らむうちそよめく心ちしてひと〱あかるゝけはひなとす也わか君はいつくに</seg>
             <lb />
