@@ -1445,16 +1445,47 @@
                すゝしなる
                <app>
                   <lem>ひとへをひとつきて</lem>
-                  <rdg wit="#靑池">ひとへひとつを</rdg>
+                  <rdg wit="#靑池">ひとへひとつをきて</rdg>
+                  <rdg wit="#靑秀">ひとへをひとつをきて</rdg>
+                  <rdg wit="#靑肖 #河">ひとへひとつきて</rdg>
+                  <rdg wit="#靑三">ひとへ<del>ひとつ</del>をきて</rdg>
+                  <rdg wit="#別陽 #別桃">ひとへのおともせぬをきて</rdg>
+                  <rdg wit="#別飯">ひとへをきて</rdg>
+                  <rdg wit="#別麥 #別阿">ひとへはかりをきて</rdg>
                </app>
                <app>
                   <lem>すへりいてにけり</lem>
+                  <rdg wit="#別麥 #別阿">すへり入にけり</rdg>
                </app>
                君はいり給てたゝひとりふ</seg>
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0090-12.json">したるをこゝろやすくおほすゆかのしもに二人はかりそふしたるきぬをゝしや</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0090-12.json">したるをこゝろやすくおほす
+               <app>
+                  <lem>ゆかのしもに</lem>
+                  <rdg wit="#河 #別陽 #別飯 #別桃">ゆかのしもにそ</rdg>
+               </app>
+               <app>
+                  <lem>二人はかりそふしたる</lem>
+                  <rdg wit="#靑横">二人はかりそ<del>ち</del>ふしたる</rdg>
+                  <rdg wit="#河">人ふたりはかりふしたるへき</rdg>
+                  <rdg wit="#別麥 #別阿">人ふたりはかりふしたり</rdg>
+               </app>
+               <app>
+                  <lem>きぬを</lem>
+                  <rdg wit="#靑横">きぬ</rdg>
+                  <rdg wit="#別陽 #別桃">ゝぬ</rdg>
+               </app>
+               ゝしや</seg>
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0090-13.json">りてより給へるにありしけはひよりはもの〱しくおほゆれとおもほしうもよ</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0090-13.json">りてより給へるにありしけはひよりは
+               <app><lem>もの〱しく</lem></app>
+               おほゆれと
+               <app>
+                  <lem>おもほしうも</lem>
+                  <rdg wit="#青御 #靑池 #靑秀">をもほしも</rdg>
+                  <rdg wit="#靑横"></rdg>
+               </app>
+               よ</seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0090-14.json">らすかしいきたなきさまなとそあやしくかはりてやう〱みあらはし給てあさ</seg>
             <lb />
