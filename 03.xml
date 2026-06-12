@@ -1242,14 +1242,15 @@
                </app>
                <app>
                   <lem>みつへく</lem>
-                  <rdg wit="#靑横">みつへ</rdg>
+                  <rdg wit="#靑横" rend="inline">みつへし</rdg>
+                  <rdg wit="#靑横" rend="margin">みつへく</rdg>
                   <rdg wit="靑池">みつへくも</rdg>
                   <rdg wit="河宮">えつへく</rdg>
                   <rdg wit="別桃">みえ</rdg>
                </app>
                <app>
                   <lem>しつまれるをとおほす</lem>
-                  <rdg wit="#靑横">しゝまれる<del>ほ</del><add>を</add>と<del>をゝ</del><add>お</add>ほす</rdg>
+                  <rdg wit="#靑横">ゝまれる<del>ほ</del><add>を</add>と<del>をゝ</del><add>お</add>ほす</rdg>
                   <!-- TODO: 未解決 -->
                   <rdg wit="靑池">しつまれるをとおほす</rdg>
                   <rdg wit="河七">しつまれる程おほす</rdg>
@@ -1262,7 +1263,12 @@
                </app>
                にやあ</seg>
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0089-04.json">らむうちそよめく心ちしてひと〱あかるゝけはひなとす也わか君はいつくに</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0089-04.json">らむ
+               <app>
+                  <lem>うちそよめく心ちして</lem>
+                  <rdg wit="#靑横">うちそよめきてこゝちして</rdg>
+               </app>
+               ひと〱あかるゝけはひなとす也わか君はいつくに</seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0089-05.json">おはしますならむこのみかうしはさしてんとてならすなりしつまりぬなりいり</seg>
             <lb />
