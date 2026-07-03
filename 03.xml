@@ -1478,20 +1478,43 @@
                ゝしや</seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0090-13.json">りてより給へるにありしけはひよりは
-               <app><lem>もの〱しく</lem></app>
+               <app>
+                  <lem>もの〱しく</lem>
+                  <rdg wit="#河">手あたりもの〱しく</rdg>
+                  <rdg wit="#別">てあたりもの〱しく</rdg>
+               </app>
                おほゆれと
                <app>
                   <lem>おもほしうも</lem>
                   <rdg wit="#青御 #靑池 #靑秀">をもほしも</rdg>
-                  <rdg wit="#靑横"></rdg>
+                  <rdg wit="#靑横 #靑三">お<add>も</add>ほしも</rdg>
+                  <rdg wit="#靑肖">おほしも</rdg>
+                  <rdg wit="#河">おほほしも</rdg>
+                  <rdg wit="#別陽 #別飯">おもほし</rdg>
+                  <rdg wit="#別麥 #別阿 #別桃">おもほしも</rdg>
                </app>
                よ</seg>
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0090-14.json">らすかしいきたなきさまなとそあやしくかはりてやう〱みあらはし給てあさ</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0090-14.json">らすかしいきたなきさま
+               <app>
+                  <lem>なとそ</lem>
+                  <rdg wit="#別陽 #別飯 #別桃">なとの</rdg>
+               </app>
+               あやしく
+               <app>
+                  <lem>かはりてやう〱</lem>
+                  <rdg wit="#河 #別陽 #別飯 #別桃">かはりたるを</rdg>
+               </app>
+               みあらはし給てあさ</seg>
             <lb />
             <pb n="91" facs="#zone_0091" />
             <lb />
-            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0091-01.json">ましくこ〱ろやましけれと人たかへとたとりてみえんもおこかましくあやしと</seg>
+            <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0091-01.json">
+               <app>
+                  <lem>ましく</lem>
+                  <rdg wit="#靑横">ましう</rdg>
+               </app>
+               こ〱ろやましけれと人たかへとたとりてみえんもおこかましくあやしと</seg>
             <lb />
             <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0091-02.json">おもふへしほいの人をたつねよらむもかはかりのかるゝこゝろあめれはかひな</seg>
                <app>
